@@ -1,7 +1,7 @@
 ## realtime-traffic-signs-detection
 
 ### Result
-https://www.youtube.com/watch?v=CGpu7aXEGmk\
+https://www.youtube.com/watch?v=CGpu7aXEGmk<br>
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/CGpu7aXEGmk/0.jpg)](https://www.youtube.com/watch?v=CGpu7aXEGmk)
 
 
