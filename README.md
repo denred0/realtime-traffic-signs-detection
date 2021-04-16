@@ -1,4 +1,4 @@
-### realtime-traffic-signs-detection
+### Realtime Traffic Signs Detection
 
 ### Result
 https://www.youtube.com/watch?v=CGpu7aXEGmk<br>
