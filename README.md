@@ -18,7 +18,7 @@ Russian Traffic Sign Dataset (RTSD) is a dataset for training and testing of tra
 https://github.com/AlexeyAB/darknet
 
 I used <b>yolo4-tiny</b> for good speed detection.\
-Train script train is in <b>trafficSigns_train_YOLOV4.ipynb</b>\
+Train script is in <b>trafficSigns_train_YOLOV4.ipynb</b>\
 Before train need to create .txt files for darknet framework (<b>Create txt files for train.ipynb</b>)\
 Trainning took 70 hours in Colab Pro.\
 Resulting mAP (mean Average Precision) is 65%.
