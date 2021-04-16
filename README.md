@@ -1,5 +1,9 @@
 ## realtime-traffic-signs-detection
 
+### Result
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/CGpu7aXEGmk/0.jpg)](https://www.youtube.com/watch?v=CGpu7aXEGmk)
+
+
 ### Dataset
 https://graphics.cs.msu.ru/ru/node/1266
 
@@ -12,7 +16,7 @@ Russian Traffic Sign Dataset (RTSD) is a dataset for training and testing of tra
 ### Model
 https://github.com/AlexeyAB/darknet
 
-I used yolo4-tiny for good speed detection.\
+I used <b>yolo4-tiny</b> for good speed detection.\
 Train script train is in <b>trafficSigns_train_YOLOV4.ipynb</b>\
 Before train need to create .txt files for darknet framework (<b>Create txt files for train.ipynb</b>)\
 Trainning took 70 hours in Colab Pro.\
