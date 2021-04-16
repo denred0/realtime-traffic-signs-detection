@@ -4,7 +4,7 @@
 https://graphics.cs.msu.ru/ru/node/1266
 
 Russian Traffic Sign Dataset (RTSD) is a dataset for training and testing of traffic sign recognition algorithms. It contains:\
-179138 labelled frames,\n
+179138 labelled frames,\
 156 sign classes,
 15630 physical signs,
 104358 images of signs.
